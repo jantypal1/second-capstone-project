@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/second-capstone-project/static/css/main.c193785f.css",
-    "main.js": "/second-capstone-project/static/js/main.989bcd6a.js",
+    "main.css": "/second-capstone-project/static/css/main.3ffb80b5.css",
+    "main.js": "/second-capstone-project/static/js/main.47011672.js",
     "static/js/787.c77f93ab.chunk.js": "/second-capstone-project/static/js/787.c77f93ab.chunk.js",
     "static/media/Banner_image.png": "/second-capstone-project/static/media/Banner_image.0c05fec9f341adeec5b8.png",
     "static/media/logo.svg": "/second-capstone-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/second-capstone-project/index.html",
-    "main.c193785f.css.map": "/second-capstone-project/static/css/main.c193785f.css.map",
-    "main.989bcd6a.js.map": "/second-capstone-project/static/js/main.989bcd6a.js.map",
+    "main.3ffb80b5.css.map": "/second-capstone-project/static/css/main.3ffb80b5.css.map",
+    "main.47011672.js.map": "/second-capstone-project/static/js/main.47011672.js.map",
     "787.c77f93ab.chunk.js.map": "/second-capstone-project/static/js/787.c77f93ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c193785f.css",
-    "static/js/main.989bcd6a.js"
+    "static/css/main.3ffb80b5.css",
+    "static/js/main.47011672.js"
   ]
 }
