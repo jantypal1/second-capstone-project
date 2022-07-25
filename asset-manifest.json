@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/second-capstone-project/static/css/main.dc5bcabf.css",
-    "main.js": "/second-capstone-project/static/js/main.e30e96a4.js",
+    "main.css": "/second-capstone-project/static/css/main.53e269d4.css",
+    "main.js": "/second-capstone-project/static/js/main.625d69a8.js",
     "static/js/787.c77f93ab.chunk.js": "/second-capstone-project/static/js/787.c77f93ab.chunk.js",
     "static/media/Banner_image.png": "/second-capstone-project/static/media/Banner_image.0c05fec9f341adeec5b8.png",
     "static/media/shopping_bag_white.png": "/second-capstone-project/static/media/shopping_bag_white.673235e084fd4658dcea.png",
@@ -10,12 +10,12 @@
     "index.html": "/second-capstone-project/index.html",
     "static/media/shopping-bag.svg": "/second-capstone-project/static/media/shopping-bag.a8b0ef8351491ef3b8fb86641a4d2a7e.svg",
     "static/media/check.svg": "/second-capstone-project/static/media/check.ffd4d9f896701562a4cb.svg",
-    "main.dc5bcabf.css.map": "/second-capstone-project/static/css/main.dc5bcabf.css.map",
-    "main.e30e96a4.js.map": "/second-capstone-project/static/js/main.e30e96a4.js.map",
+    "main.53e269d4.css.map": "/second-capstone-project/static/css/main.53e269d4.css.map",
+    "main.625d69a8.js.map": "/second-capstone-project/static/js/main.625d69a8.js.map",
     "787.c77f93ab.chunk.js.map": "/second-capstone-project/static/js/787.c77f93ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc5bcabf.css",
-    "static/js/main.e30e96a4.js"
+    "static/css/main.53e269d4.css",
+    "static/js/main.625d69a8.js"
   ]
 }
